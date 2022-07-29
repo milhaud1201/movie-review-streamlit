@@ -1,4 +1,4 @@
-# movie-review-streamlit
+# movie-review-streamlit(필사)
 자연어처리 모델(Klue/BERT)을 이용한 영화 댓글 긍정 부정 감성 분류 프로젝트
 * 프로젝트 출처(https://github.com/ElleryVernon/movie-streamlit-for-public)
 * streamlit 바로가기()
